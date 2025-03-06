@@ -10,23 +10,13 @@ I chose **Peaky Blinders**, a series set in post-World War I Britain, blending *
 
 <h2>📌 Project Overview</h2>
 
-- **Analysis of character relationships and evolution** throughout the series  
-- **Comparison between historical accuracy and fictional elements**  
-- **Exploration of key locations and significant events**  
-- **Themes of power, crime, and politics in early 20th-century Britain**  
-
-<br>
-
-<h2>🚀 Tools & Technologies</h2>
-
-- **Tableau** for data visualization  
-- **Historical references & show data** for insights  
-- **Iron Viz competition framework** for structured analysis  
+- **Analysis of character relationships and their evolution** 
+- **Examination of votes, ratings, runtime**  
+- **Insight into the work of behind-the-scenes creators and contributors**  
+- **Exploration of awards, nominations, and industry recognition**  
 
 <br>
 
 <h2>🎯 Objective</h2>
 
 This project aims to provide an **interactive and analytical** view of **Peaky Blinders**, offering a **data-driven perspective** on its story and characters.  
-
-Feel free to explore the dashboard and share your feedback! 🚀  
